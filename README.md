@@ -1,8 +1,8 @@
 # ISPY
-This is a replication package for "Automated Issue Detection and Solution Extraction".
+This is a replication package for "ISPY: Automated Issue Detection and Solution Extraction".
 
 Our project is public at:
-[https://gitlab.com/ispy2021/ispy-master](https://gitlab.com/ispy2021/ispy-master).
+[https://github.com/jzySaber1996/ISPY](https://github.com/jzySaber1996/ISPY).
 
 ## Content
 [1 Project Structure](#1-project-structure)<br>
